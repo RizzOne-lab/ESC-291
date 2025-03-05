@@ -1,3 +1,5 @@
+1st-Code:
+        
 /*** Modify below incomplete program ***/
 
 /* Include necessary library */
@@ -25,6 +27,8 @@ int main() {
 }
 
 
+2nd-Code:
+        
 #include<stdio.h>
     int main(){
     int a,b,c;
@@ -37,6 +41,10 @@ int main() {
     return 0;
     }
 
+
+
+3rd-Code: 
+   
 /* Include necessary library */
 #include<stdio.h>
 /* Declare main function. Place curly brackets {} properly */
