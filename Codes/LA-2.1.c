@@ -60,9 +60,5 @@ int main(){
         else{
         printf("ODD");
         }
-       
-        
-       
-
         return 0;
         }
